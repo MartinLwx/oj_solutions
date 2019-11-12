@@ -4,4 +4,8 @@
 
 - [ ] hdoj
 - [ ] PTA
+- `b*.cpp` stands for **Basic Level**
+- `a*.cpp` stands for **Advanced Level**
+- `t*.cpp` stands for **Top Level**
 - [ ] Leetcode
+
