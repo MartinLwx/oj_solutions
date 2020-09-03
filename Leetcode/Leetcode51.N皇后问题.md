@@ -25,7 +25,7 @@ N皇后问题
     30 31 32 33		//看坐标找规律
     ```
 
-![](./images/Leetcode51.jpeg)
+![](./images/Leetcode51.jpeg?raw=true)
 
 #### 代码
 
